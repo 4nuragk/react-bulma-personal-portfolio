@@ -1,4 +1,4 @@
-# Personal website template
+# Personal website template [![GitHub license](https://img.shields.io/github/license/anurag-kx/personal-portfolio)](https://github.com/anurag-kx/personal-portfolio/blob/master/LICENSE)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d0c59a4c54e244ab9319ad9abfc5e478)](https://app.codacy.com/manual/anurag.kushwaha365/personal-portfolio?utm_source=github.com&utm_medium=referral&utm_content=anurag-kx/personal-portfolio&utm_campaign=Badge_Grade_Dashboard)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=anurag-kx_personal-portfolio&metric=alert_status)](https://sonarcloud.io/dashboard?id=anurag-kx_personal-portfolio)
