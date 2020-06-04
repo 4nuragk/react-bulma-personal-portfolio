@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Anurag Kushwaha",
+    "label": "Full Stack Developer",
+    "picture": "images/anuragk.webp",
+    "x_pictureFallback": "images/anuragk.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Going on 1 year of experience in IT. Currently I’m working as a developer in Open Source Intelligence Labs, IIT Guwahati. I’m a full stack developer, interested in Data Science, all sorts of automation and developing front-end and back-end applications. I am an Open Source Enthusiast and love contributing to the community.",
+    "location": {
+      "country": "Assam, India",
+      "countryCode": "In",
+      "region": "IIT Guwahati"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "anurag-cser",
+        "url": "https://www.linkedin.com/in/anurag-cser",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "anurag-kx",
+        "url": "https://github.com/anurag-kx",
+        "x_icon": "fab fa-2x fa-github"
+      },
+      {
+        "network": "Portfolio",
+        "username": "anuragk",
+        "url": "https://drive.google.com/file/d/1u_7Zp2URALqqsrYzf-F1imGp7vt5WtR0/view?usp=sharing",
+        "x_icon":"far fa-2x fa-id-card"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IIT Guwahati",
+      "position": "Project Engineer",
+      "website": "https://iitg.ac.in/cseweb/osint/vishleshakee/",
+      "startDate": "2019-08-16",
+      "endDate": "",
+      "summary": "Working on the 'Social Media Analytics' Tool project that mainly focuses on Topic Modeling, Event Detection, Sentiment Analysis, Text to Speech Synthesis, and Social Network Analysis.",
+      "highlights": []
+    },
+    {
+      "company": "Trilltale Technologies Pvt Ltd",
+      "position": "Full Stack Developer | Intern",
+      "website": "https://trilltale.com",
+      "startDate": "2018-06-01",
+      "endDate": "2018-09-30",
+      "summary": "Worked on creation and development of several android applications. Created JAVA APIs related to android applications. Designed and developed TrillTale Website.",
+      "highlights": []
+    },
+    {
+      "company": "Repayz",
+      "position": "Backend Developer",
+      "website": "https://www.repayz.com",
+      "startDate": "2017-06-01",
+      "endDate": "2017-08-30",
+      "summary": "Started my first professional developer experience as a Backend Developer for Repayz",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Assam University, Silchar",
+      "area": "BTech in Computer Science & Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2015-09-24",
+      "endDate": "2019-05-30",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Image Processing"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "C++",
+      "level": "Intermediate",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "Java",
+      "level": "Basic",
+      "keywords": ["Languages"]
+    },
+    {
+      "name": "Apache Spark",
+      "level": "Advanced",
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "PyTorch",
+      "level": "Basic",
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Tensorflow",
+      "level": "Intermediate",
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Keras",
+      "level": "Intermediate",
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "OpenCV(Python)",
+      "level": "Intermediate",
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "NodeJS",
+      "level": "Basic",
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Flutter",
+      "level": "Intermediate",
+      "keywords": ["Tools"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Design Patterns",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Adobe Illustrator",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "REST API",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Apache Cassandra",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Travel bug",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Night Owl",
+      "x_icon": "fa-moon"
+    },
+    {
+      "name": "Dog lover",
+      "x_icon": "fa-dog"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
