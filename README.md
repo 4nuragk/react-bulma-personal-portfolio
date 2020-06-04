@@ -14,7 +14,7 @@ Feel free to fork this project and update it with your own information and style
 
 1. Clone the repo:
 ```console
-> git clone https://github.com/anurag-kx/personal-website.git
+> git clone https://github.com/anurag-kx/personal-portfolio.git
 ```
 
 2. Update the *resume.json* with your personal information (check [JSON Resume](https://jsonresume.org/))
